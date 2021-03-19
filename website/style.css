@@ -1,0 +1,9 @@
+#logo{
+    display: flex;
+    size: 4px;
+    style="width: 10px; height: 10px;;"
+{
+
+    .navbar-brand{
+        padding-left: 2rem ;
+    }
